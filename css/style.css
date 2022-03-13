@@ -1,0 +1,53 @@
+
+header{
+  text-align: center;
+  background-color: crimson;
+  color: white;
+  height: 50px;
+  margin: 10px 20px ;
+}
+a{
+  background-color: skyblue;
+  color: black;
+  font-size: 20px;
+  text-decoration: none;
+  text-align: center;
+  width: 90px;
+  height: 20px;
+  margin: 10px 20px;
+  border-radius: 10px;
+  border: 1px solid #333;
+  float: left;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    
+  }
+table, th, td {
+    border: 1px solid black;
+    
+  }th {
+    text-align: center;
+    height: 70px;
+  }td {
+    height: 50px;
+    vertical-align: bottom;
+    
+  }
+
+  /* login style */
+  .container{
+    background: #333;
+    align-items: center;
+    max-width: 2000px;
+    text-align: justify;
+  }.container-2{
+    background: rgb(206, 200, 200);
+  }button{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+  }
